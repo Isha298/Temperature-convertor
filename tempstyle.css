@@ -1,0 +1,35 @@
+body{
+    background: #005AA7;  
+    background: -webkit-linear-gradient(to right, #FFFDE4, #005AA7);  
+    background: linear-gradient(to right, #FFFDE4, #005AA7); 
+    color:#654321;
+    background: url(https://images.unsplash.com/photo-1597132825820-094d481f1c4b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80);
+}
+   
+#greet{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+    font-weight: 900;
+    font-style: oblique;
+    color:	#121d31
+}
+.tempinput{
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid silver;
+    font-size: 180%;
+    height: 40px;
+    padding: 1px 6px;
+    text-align: center;
+    width: 197px;
+    border-radius: 2px 2px 0 0;
+}
+.tempwrap{
+    margin: 10px;
+}
+.sizing{
+    font-weight: 600;
+    font-size: 130%;
+}
+
+    
